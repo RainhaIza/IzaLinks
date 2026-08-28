@@ -7,7 +7,7 @@ import icon3 from "../assets/icon3.png";
 // import icon4 from "../assets/icon4.png";
 import icon5 from "../assets/icon5.png";
 import icon6 from "../assets/icon6.png";
-import icon7 from "../assets/icon7.png";
+// import icon7 from "../assets/icon7.png";
 
 export const Sociais = [
   {
@@ -64,17 +64,17 @@ export const Links = [
     icone: icon5,
   },
   {
-    nome: "Grupo VIP Rainha Iza",
+    nome: "Comunidade Gratuita da Rainha Iza",
     descricao:
       "Grupo gratuito. Receba dicas de sedução e energia todos os dias",
-    url: "https://chat.whatsapp.com/Jxj2JdJPK2wB1gWxPTirpN",
+    url: "https://chat.whatsapp.com/IOLwxOKhHg5G8s4Cpyxrc9?mode=gi_t",
     icone: icon6,
   },
-  {
-    nome: "Ordem das Sereias",
-    descricao:
-      "A Ordem das Sereias é um encontro feminino criado para falar nos mínimos detalhes sobre amor e relações sexuais. Somente as menindas da Ordem terão acesso ao Ritual Devoradora de Homens",
-    url: "https://ordemdassereias.replit.app  ",
-    icone: icon7,
-  },
+  // {
+  //   nome: "Ordem das Sereias",
+  //   descricao:
+  //     "A Ordem das Sereias é um encontro feminino criado para falar nos mínimos detalhes sobre amor e relações sexuais. Somente as menindas da Ordem terão acesso ao Ritual Devoradora de Homens",
+  //   url: "https://ordemdassereias.replit.app  ",
+  //   icone: icon7,
+  // },
 ];
